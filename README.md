@@ -1,1 +1,1 @@
-![seva's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevaaaDev&show_icons=true&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+my name is sevan, i like computr. i write c and go and somettime javascript. im isnterest in compiler or anything thar parse inpuht
