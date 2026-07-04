@@ -1,3 +1,7 @@
-my name is sevan, i like computr. i write c and go and somettime javascript. im isnterest in compiler or anything thar parse inpuht
+hallo, im Sevan. 
+i like programming and tinkering with linux. 
+i also like math and physics.
 
-i also have a blog [sevaaadev.github.io/blog](https://sevaaadev.github.io/blog)
+on the internet, im also known as Andry, driysev, and unsigned8bit.
+
+i have personal website where i talk about computer, and many things [sevaaadev.github.io/](https://sevaaadev.github.io/)
